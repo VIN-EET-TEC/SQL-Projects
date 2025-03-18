@@ -1,6 +1,6 @@
 # SQL-Projects
 
-## Retail Sales Analysis SQL Project
+## Retail Sales Analysis Project
 
 ### Objectives
 
@@ -9,7 +9,7 @@
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
 4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
 
-## Mentor User Performance Analysis SQL Project
+## Mentor User Performance Analysis Project
 
 ### Objectives
 
