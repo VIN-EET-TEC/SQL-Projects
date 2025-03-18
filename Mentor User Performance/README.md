@@ -105,7 +105,7 @@ The following SQL queries were developed to answer specific business questions:
 ### Q1. List All Distinct Users and Their Stats
 - **Description**: Return the user name, total submissions, and total points earned by each user.
 
-```
+```sql
 SELECT 
     username,
     COUNT(id) AS Total_Submissions,
@@ -120,7 +120,7 @@ ORDER BY total_submissions DESC;
 ### Q2. Calculate the Daily Average Points for Each User
 - **Description**: For each day, calculate the average points earned by each user.
 
-```
+```sql
 SELECT 
     EXTRACT(DAY FROM submitted_at) AS Day,
     username,
@@ -135,7 +135,7 @@ ORDER BY username;
 ### Q3. Find the Top 3 Users with the Most Correct Submissions for Each Day
 - **Description**: Identify the top 3 users with the most correct submissions for each day.
 
-```
+```sql
 SELECT * FROM user_submissions;
 
 WITH daily_submissions
@@ -172,7 +172,7 @@ WHERE Rankk <= 3;
 ### Q4. Find the Top 5 Users with the Highest Number of Incorrect Submissions
 - **Description**: Identify the top 5 users with the highest number of incorrect submissions.
 
-```
+```sql
 SELECT 
     username,
     SUM(CASE
@@ -202,7 +202,7 @@ ORDER BY points_earned DESC;
 ### Q5. Find the Top 10 Performers for Each Week
 - **Description**: Identify the top 10 users with the highest total points earned each week.
 
-```
+```sql
 SELECT *  
 FROM
 (
