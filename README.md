@@ -13,10 +13,10 @@
 
 ### Objectives
 
-- Learn how to use SQL for data analysis tasks such as aggregation, filtering, and ranking.
-- Understand how to calculate and manipulate data in a real-world dataset.
-- Gain hands-on experience with SQL functions like `COUNT`, `SUM`, `AVG`, `EXTRACT()`, and `DENSE_RANK()`.
-- Develop skills for performance analysis using SQL by solving different types of data problems related to user performance.
+- **Master SQL Techniques:** Learn to perform data analysis tasks such as aggregation, filtering, and ranking.
+- **Data Manipulation:** Understand how to calculate and transform data using real-world datasets.
+- **Hands-On Experience:** Practice using SQL functions like COUNT, SUM, AVG, EXTRACT(), and DENSE_RANK().
+- **Performance Analysis:** Develop expertise in solving data problems related to user performance using SQL.
 
 ## Author
 - **Email**: vineetgupta798@gmail.com
