@@ -18,6 +18,15 @@
 - **Hands-On Experience:** Practice using SQL functions like COUNT, SUM, AVG, EXTRACT(), and DENSE_RANK().
 - **Performance Analysis:** Develop expertise in solving data problems related to user performance using SQL.
 
+ ## Netflix Movies and TV Shows Data Analysis SQL Project
+
+ ### Objectives
+
+- Analyze the distribution of content types (movies vs TV shows).
+- Identify the most common ratings for movies and TV shows.
+- List and analyze content based on release years, countries, and durations.
+- Explore and categorize content based on specific criteria and keywords.
+
 ## Author
 - **Email**: vineetgupta798@gmail.com
 - **LinkedIn**: [vineet-gupta-01b317231](https://www.linkedin.com/in/vineet-gupta-01b317231/)
