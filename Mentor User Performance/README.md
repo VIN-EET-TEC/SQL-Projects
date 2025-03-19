@@ -2,14 +2,14 @@
 
 ## Overview
 
-This project is designed to showcase essential SQL skills and techniques commonly used by data analysts to explore, clean, and analyze retail sales data. It involves setting up a database, conducting exploratory data analysis (EDA), and using SQL queries to answer key business questions.
+This project focuses on analyzing mentor user performance using SQL to identify trends, measure effectiveness, and gain actionable insights. The dataset contains user interaction details, enabling a thorough evaluation of mentor contributions and user engagement. It involves setting up a database, conducting exploratory data analysis (EDA), and using SQL queries to answer key business questions.
 
 ## Objectives
 
-- Learn how to use SQL for data analysis tasks such as aggregation, filtering, and ranking.
-- Understand how to calculate and manipulate data in a real-world dataset.
-- Gain hands-on experience with SQL functions like `COUNT`, `SUM`, `AVG`, `EXTRACT()`, and `DENSE_RANK()`.
-- Develop skills for performance analysis using SQL by solving different types of data problems related to user performance.
+- **Master SQL Techniques:** Learn to perform data analysis tasks such as aggregation, filtering, and ranking.
+- **Data Manipulation:** Understand how to calculate and transform data using real-world datasets.
+- **Hands-On Experience:** Practice using SQL functions like COUNT, SUM, AVG, EXTRACT(), and DENSE_RANK().
+- **Performance Analysis:** Develop expertise in solving data problems related to user performance using SQL.
 
 ## Dataset
 
