@@ -2,30 +2,30 @@
 
 ## Retail Sales Analysis Project
 
-### Objectives
+### Result 
 
-- **Set up a retail sales database**: Create and populate a retail sales database with the provided sales data.
-- **Data Cleaning**: Identify and remove any records with missing or null values.
-- **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
-- **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
+- **Set up a retail sales database**: Created and populated a retail sales database with the provided sales data.
+- **Data Cleaning**: Identifying and removed any records with missing or null values.
+- **Exploratory Data Analysis (EDA)**: Performed basic exploratory data analysis to understand the dataset.
+- **Business Analysis**: Used SQL to answer specific business questions and derive insights from the sales data.
 
 ## Mentor User Performance Analysis Project
 
-### Objectives
+### Result
 
-- **Master SQL Techniques:** Learn to perform data analysis tasks such as aggregation, filtering, and ranking.
+- **Master SQL Techniques:** Performed data analysis tasks such as aggregation, filtering, and ranking.
 - **Data Manipulation:** Understand how to calculate and transform data using real-world datasets.
-- **Hands-On Experience:** Practice using SQL functions like COUNT, SUM, AVG, EXTRACT(), and DENSE_RANK().
-- **Performance Analysis:** Develop expertise in solving data problems related to user performance using SQL.
+- **Hands-On Experience:** Practiced using SQL functions like COUNT, SUM, AVG, EXTRACT(), and DENSE_RANK().
+- **Performance Analysis:** Developed expertise in solving data problems related to user performance using SQL.
 
  ## Netflix Movies and TV Shows Data Analysis SQL Project
 
- ### Objectives
+ ### Result
 
-- Analyze the distribution of content types (movies vs TV shows).
-- Identify the most common ratings for movies and TV shows.
-- List and analyze content based on release years, countries, and durations.
-- Explore and categorize content based on specific criteria and keywords.
+- Analyzed the distribution of content types (movies vs TV shows).
+- Identifed the most common ratings for movies and TV shows.
+- List and analyzed content based on release years, countries, and durations.
+- Explored and categorized content based on specific criteria and keywords.
 
 ## Author
 - **Email**: vineetgupta798@gmail.com
