@@ -1,6 +1,6 @@
 # SQL-Projects
 
-## Retail Sales Analysis Project
+## Retail Sales Analysis
 
 ### Result 
 
@@ -9,7 +9,7 @@
 - **Exploratory Data Analysis (EDA)**: Performed basic exploratory data analysis to understand the dataset.
 - **Business Analysis**: Used SQL to answer specific business questions and derive insights from the sales data.
 
-## Mentor User Performance Analysis Project
+## Mentor User Performance Analysis
 
 ### Result
 
@@ -18,7 +18,7 @@
 - **Hands-On Experience:** Practiced using SQL functions like COUNT, SUM, AVG, EXTRACT(), and DENSE_RANK().
 - **Performance Analysis:** Developed expertise in solving data problems related to user performance using SQL.
 
- ## Netflix Movies and TV Shows Data Analysis SQL Project
+ ## Netflix Movies and TV Shows Data Analysis
 
  ### Result
 
